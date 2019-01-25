@@ -1,0 +1,10 @@
+#
+# Project specific excludes
+#
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
